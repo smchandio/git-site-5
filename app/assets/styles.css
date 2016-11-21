@@ -1,0 +1,12 @@
+@import 'normalize.css';
+@import 'base/_global';
+@import 'base/_variable';
+
+/*Start of custom CSS-written by Sadia*/
+
+
+
+html {
+    font-size: 62.5%;
+
+}
